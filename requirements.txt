@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+streamlit
+datetime
+pypdf 
+langchain-community 
+langchain-chroma
